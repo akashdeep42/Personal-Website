@@ -1,5 +1,11 @@
+
+
 body {
   font-family: Arial, san-serif:
-  background-color: #f4f4f4;
+  background-color: #add8e6;
   margin: 0;
   padding: 0; 
+  }
+img {
+  border-radius: 50%;
+  }
